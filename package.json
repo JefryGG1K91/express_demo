@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "BHD",
+  "author": "ROBOT_USER",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
